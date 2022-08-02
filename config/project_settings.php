@@ -1,0 +1,17 @@
+<?php return array (
+  'contact_email' => 'info@click-shine.com',
+  'contact_phone' => '+97888282828',
+  'project_name' => 'Click And Shine',
+  'about_us_slug' => 'about-us',
+  'address' => 'Office street, office, KSA',
+  'email' => 'info@development.com',
+  'email_header' => '1',
+  'facebook_url' => 'https://www.facebook.com/',
+  'android_app' => 'https://play.google.com/store/apps',
+  'ios_app' => 'https://www.apple.com/app-store/',
+  'latitude' => '24.7135517',
+  'longitude' => '46.6752957',
+  'mission_and_vision' => 'mission-and-vision-content',
+  'privacy_policy' => 'privacy-policy',
+  'terms_and_condition' => 'terms-and-conditions',
+);
