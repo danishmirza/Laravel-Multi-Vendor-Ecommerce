@@ -1,6 +1,6 @@
-Upwork Demo Project
+Multi Vendor Ecommerce
 
-This is an upwork demo project build in Laravel and Vuejs. 
+Multi Vendor Ecommerce project build in Laravel and Vuejs. 
 This project also contains laravel websockets.
 
 Feel free to create pull requests for bugs/improvements.
